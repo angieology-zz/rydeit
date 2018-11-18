@@ -1,0 +1,3 @@
+[submodule "libretaxi"]
+	path = libretaxi
+	url = https://github.com/ro31337/libretaxi.git
